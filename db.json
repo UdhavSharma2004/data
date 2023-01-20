@@ -2,7 +2,8 @@
   "items": [
     {
       "value": "Sample Task 1",
-      "checked": false
+      "checked": false,
+      "id": 1
     }
   ]
 }
