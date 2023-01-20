@@ -1,7 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
       "value": "Sample Task 1",
       "checked": false
     }
